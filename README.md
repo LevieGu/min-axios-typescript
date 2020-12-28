@@ -1,2 +1,3 @@
-# ts-axios 
-使用 TypeScript 实现 axios
+# min-axios-typescript
+
+基于TypeScript从零重构axios
